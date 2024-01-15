@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Machiya
+* source:	https://sketchfab.com/3d-models/japanese-machiya-2617c4cfffa9441d8e061fe5a2acf346
+* author:	xervolt (https://sketchfab.com/xervolt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Machiya" (https://sketchfab.com/3d-models/japanese-machiya-2617c4cfffa9441d8e061fe5a2acf346) by xervolt (https://sketchfab.com/xervolt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
