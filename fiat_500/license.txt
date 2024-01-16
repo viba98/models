@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fiat 500
+* source:	https://sketchfab.com/3d-models/fiat-500-4606659ff31142e3b8080f995514452f
+* author:	Francesco Coldesina (https://sketchfab.com/topfrank2013)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fiat 500" (https://sketchfab.com/3d-models/fiat-500-4606659ff31142e3b8080f995514452f) by Francesco Coldesina (https://sketchfab.com/topfrank2013) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
